@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ng-tags-input</artifactId>
-    <version>3.2.0</version>
+    <version>3.2.1-SNAPSHOT</version>
     <name>ngTagsInput</name>
     <description>WebJar for ngTagsInput</description>
     <url>http://webjars.org</url>
@@ -52,7 +52,7 @@
         <url>http://github.com/webjars/ng-tags-input</url>
         <connection>scm:git:https://github.com/webjars/ng-tags-input.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/ng-tags-input.git</developerConnection>
-        <tag>ng-tags-input-3.2.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
